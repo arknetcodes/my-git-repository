@@ -6,6 +6,6 @@ if __name__ == "__main__":
 	v2 = [8, 9, 10]
 	
 	# Add the vectors
-	print(add.add(v1, v1))	
+	print add.add(v1, v1) 	
 	# Multiply the vectors
-	print(multiply.multiply(v1, v2))
+	print multiply.multiply(v1, v2) 
